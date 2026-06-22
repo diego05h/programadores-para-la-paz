@@ -1,0 +1,15 @@
+Que las comunidades e iniciativas ciudadanas puedan construir sus propias
+herramientas tecnológicas usando tecnologías abiertas como Node.js es importante
+porque les da autonomía y les permite resolver sus propias necesidades sin
+depender de soluciones comerciales costosas o que no se adaptan a su contexto.
+
+Node.js es de código abierto, lo que significa que cualquier persona puede
+aprenderlo, usarlo y modificarlo libremente. Esto reduce las barreras de entrada
+para comunidades con pocos recursos y permite que más personas participen en
+la construcción de soluciones digitales para sus propios entornos.
+
+Además, cuando una comunidad construye su propia herramienta, entiende cómo
+funciona, puede mantenerla y adaptarla con el tiempo. Eso genera capacidades
+locales reales, fomenta la independencia tecnológica y fortalece la participación
+ciudadana desde adentro, que es exactamente el espíritu de una cultura de paz
+basada en la colaboración y el acceso equitativo al conocimiento.
