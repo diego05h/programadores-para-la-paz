@@ -1,0 +1,17 @@
+Que una plataforma tecnológica comunitaria funcione de manera estable y
+segura en un servidor es fundamental porque las comunidades dependen de
+ella para comunicarse, reportar situaciones, acceder a información y
+participar en procesos colectivos. Una caída del servidor o una falla
+de seguridad puede interrumpir esos procesos en momentos críticos.
+
+La estabilidad también tiene un impacto directo en la confianza: cuando
+una plataforma falla con frecuencia o pierde datos, las personas dejan
+de usarla porque sienten que no es confiable. Recuperar esa confianza
+es mucho más difícil que mantenerla desde el inicio con buenas prácticas
+de administración del servidor.
+
+Además, un servidor bien configurado con monitoreo, logs y control de
+accesos permite detectar problemas antes de que se conviertan en fallas
+graves. En ese sentido, cuidar el servidor no es solo una tarea técnica
+sino una responsabilidad hacia la comunidad que confía en la plataforma
+para sus procesos de participación y organización colectiva.
