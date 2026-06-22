@@ -1,0 +1,16 @@
+La seguridad digital es fundamental para proteger plataformas tecnológicas
+comunitarias porque estas manejan información sensible de personas reales:
+datos de contacto, reportes, ubicaciones y opiniones que, en manos equivocadas,
+podrían usarse para perjudicar a quienes confían en la plataforma.
+
+A diferencia de plataformas comerciales con grandes equipos de seguridad,
+las plataformas comunitarias suelen tener recursos limitados, lo que las hace
+más vulnerables si no se aplican buenas prácticas desde el inicio. Un servidor
+mal configurado, una contraseña débil o credenciales expuestas en el código
+pueden comprometer toda la información almacenada.
+
+Además, la seguridad digital no es solo técnica sino también de confianza:
+cuando una comunidad sabe que su información está protegida, participa con
+más confianza y frecuencia. Por eso aplicar prácticas como el uso de HTTPS,
+el control de permisos y la protección de credenciales no es opcional sino
+una responsabilidad ética de quienes construyen y administran estas plataformas.

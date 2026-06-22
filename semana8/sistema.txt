@@ -1,0 +1,19 @@
+Comandos ejecutados y su información:
+
+uname -a
+Este comando muestra información completa del sistema operativo: el nombre
+del kernel, la versión, la arquitectura del procesador y la fecha de
+compilación. Es útil para conocer qué versión de Linux está corriendo
+en el servidor y verificar si está actualizado.
+
+whoami
+Este comando muestra el nombre del usuario que está ejecutando la sesión
+actual en la terminal. Es útil para confirmar con qué permisos se está
+trabajando, especialmente en servidores donde es importante saber si se
+está operando como usuario normal o como administrador (root).
+
+¿Por qué es útil conocer esta información en un servidor?
+Cuando se administra un servidor es fundamental conocer el sistema operativo
+y el usuario activo para tomar decisiones correctas sobre permisos, seguridad
+y compatibilidad de software. Un error de permisos puede exponer datos
+sensibles o bloquear el funcionamiento de la plataforma.
