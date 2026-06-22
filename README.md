@@ -12,6 +12,7 @@ Repositorio de actividades del curso de programación.
 - semana6: JSON, req.body y peticiones POST
 - semana7: Arrays, almacenamiento en memoria y sistema de reportes
 - semana8: Linux, terminal, código abierto y seguridad digital
+- semana9: Servidores, puertos, logs y estabilidad
 
 ## Herramienta utilizada
 
