@@ -1,0 +1,19 @@
+Prueba de la ruta POST /registro
+
+Se envió una petición POST al servidor con el siguiente JSON:
+{
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+El servidor recibió los datos correctamente mediante req.body y respondió
+con el siguiente JSON:
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
+
+Esto confirma que express.json() permite leer correctamente los datos
+enviados en el cuerpo de la petición y que el servidor los procesa
+y devuelve como respuesta estructurada.

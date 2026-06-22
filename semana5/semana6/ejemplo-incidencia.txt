@@ -1,0 +1,13 @@
+Ejemplo de JSON para reportar una incidencia comunitaria:
+
+{
+  "tipo": "Iluminación pública",
+  "descripcion": "La comunidad reporta que una lámpara del parque principal
+  no funciona desde hace varios días, lo que genera inseguridad en el sector
+  durante las horas de la noche."
+}
+
+Este tipo de reporte permitiría a una plataforma comunitaria recibir alertas
+de los ciudadanos de forma organizada, clasificarlas por tipo de incidencia
+y derivarlas a las autoridades o administradores correspondientes para
+su atención oportuna.

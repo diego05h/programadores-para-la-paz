@@ -1,0 +1,16 @@
+Que las plataformas tecnológicas puedan recibir información estructurada
+de los ciudadanos es fundamental porque permite organizar y procesar los
+datos de forma eficiente, sin depender de mensajes informales que muchas
+veces se pierden o no llegan a quien corresponde.
+
+Cuando un ciudadano envía un reporte en formato estructurado, como un JSON
+con campos definidos como tipo y descripción, el sistema puede clasificarlo
+automáticamente, almacenarlo en una base de datos y generar alertas o
+estadísticas sin necesidad de intervención manual. Esto agiliza la respuesta
+y reduce el margen de error humano en el procesamiento de la información.
+
+Además, la estructura facilita la transparencia: si todos los reportes siguen
+el mismo formato, es más fácil auditar, comparar y visualizar los datos.
+Esto fortalece la confianza de la comunidad en la plataforma y fomenta una
+participación más activa, porque las personas ven que sus reportes llegan
+de forma ordenada y generan resultados concretos.
