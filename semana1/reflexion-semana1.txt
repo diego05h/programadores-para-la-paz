@@ -1,0 +1,14 @@
+El uso responsable de la información en internet es el punto de partida de una 
+ciudadanía digital activa y consciente. Cuando verificamos lo que compartimos, 
+no solo protegemos a otros de la desinformación, sino que también fortalecemos 
+la confianza en los espacios digitales donde participamos colectivamente.
+
+Esta responsabilidad individual tiene una dimensión ciudadana clara: cada 
+publicación, comentario o contenido compartido influye en la opinión pública 
+y en la convivencia de comunidades enteras. Ignorar eso es renunciar a una 
+parte importante de nuestra participación social.
+
+Herramientas como Git nos permiten trasladar esa misma disciplina al trabajo 
+técnico: registrar cada cambio, documentar el proceso y mantener un historial 
+claro del trabajo realizado. Así como un ciudadano digital responsable verifica 
+antes de publicar, un desarrollador responsable documenta antes de entregar.
