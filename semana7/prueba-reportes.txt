@@ -1,0 +1,38 @@
+Prueba de la ruta POST /reportes
+-------------------------------
+Al enviar una solicitud POST a http://localhost:3000/reportes con el siguiente JSON:
+ 
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+ 
+El servidor responde con:
+ 
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+}
+ 
+Prueba de la ruta GET /reportes
+--------------------------------
+Al consultar GET http://localhost:3000/reportes, el servidor devuelve la lista
+de todos los reportes registrados en memoria durante esa sesión:
+ 
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
+ 
+Observación:
+Los datos solo se mantienen mientras el servidor está encendido. Si se reinicia,
+la lista vuelve a estar vacía porque se almacena en un array en memoria,
+no en una base de datos.
+ 

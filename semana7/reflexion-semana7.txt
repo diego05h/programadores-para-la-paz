@@ -1,0 +1,22 @@
+Reflexión semana 7
+-------------------
+Que las comunidades puedan registrar y consultar reportes o incidencias en una
+plataforma tecnológica es fundamental porque convierte los problemas cotidianos
+en información organizada y trazable. Cuando un vecino reporta un daño en el
+alumbrado o una acumulación de basura, ese registro queda documentado con fecha,
+tipo y descripción, lo que facilita el seguimiento y evita que la queja se pierda
+en una conversación informal o una red social.
+ 
+Una plataforma de este tipo también permite que las instituciones responsables
+reciban la información de forma ordenada y puedan priorizar su atención según la
+cantidad y el tipo de reportes recibidos. Esto hace más eficiente la respuesta y
+reduce la posibilidad de que situaciones urgentes sean ignoradas por falta de
+evidencia o documentación.
+ 
+Además, cuando la comunidad tiene acceso a consultar los reportes registrados,
+se fortalece la transparencia y la confianza entre ciudadanos e instituciones.
+La ciudadanía puede verificar si su reporte fue recibido, si otros vecinos han
+reportado lo mismo y si existe algún avance en la solución. En ese sentido, la
+tecnología no reemplaza la participación ciudadana, sino que la potencia,
+dándole estructura, visibilidad y continuidad a los procesos de control y
+veeduría comunitaria.
