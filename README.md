@@ -13,6 +13,7 @@ Repositorio de actividades del curso de programación.
 - semana7: Arrays, almacenamiento en memoria y sistema de reportes
 - semana8: Linux, terminal, código abierto y seguridad digital
 - semana9: Servidores, puertos, logs y estabilidad
+- semana10: Metodologías ágiles, backlog, automatización y coordinación comunitaria
 
 ## Herramienta utilizada
 
