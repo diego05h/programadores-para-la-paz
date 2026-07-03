@@ -1,0 +1,19 @@
+Las metodologías ágiles permiten organizar el desarrollo de una solución
+comunitaria de forma iterativa y flexible, priorizando lo que más valor
+aporta a los usuarios en cada momento. En lugar de planear todo desde
+el inicio, se trabaja por entregas pequeñas y funcionales que permiten
+ajustar el rumbo según las necesidades reales de la comunidad.
+
+El backlog es una herramienta clave en este proceso porque obliga a
+priorizar: no todo puede hacerse al mismo tiempo, y decidir qué va
+primero es en sí mismo un ejercicio de escucha y comprensión de las
+necesidades colectivas. Las historias de usuario ayudan a mantener el
+foco en las personas y no solo en la tecnología.
+
+La automatización con n8n y canales como Telegram complementan este
+enfoque porque reducen tareas repetitivas y mantienen al equipo informado
+sin necesidad de revisar constantemente el sistema. Una alerta automática
+cuando llega un reporte, por ejemplo, acelera la respuesta y mejora la
+experiencia de quienes confían en la plataforma para ser escuchados.
+Juntas, estas herramientas permiten que una comunidad pequeña pueda
+gestionar procesos complejos con recursos limitados y de forma organizada.

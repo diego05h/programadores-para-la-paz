@@ -1,0 +1,22 @@
+Iteración simple - Semana 10
+
+¿Qué 2 tareas del backlog haría primero?
+
+1. Registrar una incidencia.
+2. Consultar todos los reportes registrados.
+
+¿Por qué son las más importantes?
+Porque sin la capacidad de registrar y consultar reportes, el resto de
+funcionalidades no tiene sentido. Son el núcleo de la plataforma: primero
+debe existir la posibilidad de crear información y luego de acceder a ella.
+La alerta por Telegram y los estados de reporte son mejoras que dependen
+de que estas dos funciones ya estén funcionando correctamente.
+
+Definición de terminado:
+Una tarea está terminada cuando cumple estos criterios:
+
+1. Funciona correctamente y responde como se espera en todas las pruebas.
+2. Fue probada con al menos un caso real usando curl o Thunder Client.
+3. El código quedó registrado en Git con un commit descriptivo.
+4. No expone datos sensibles ni credenciales en el código o en GitHub.
+5. Está documentada brevemente en el archivo correspondiente de la semana.
