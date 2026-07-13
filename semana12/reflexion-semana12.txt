@@ -1,0 +1,7 @@
+Reflexión final - Semana 12
+
+Este curso me hizo caer en cuenta de que la tecnología no es solo para hacer aplicaciones bonitas, sino que puede ser una herramienta real para que la gente de mi comunidad se organice y se haga escuchar. Con "Petición en 3 Clics" entendí cómo algo tan sencillo como una base de datos con dos tablas puede convertirse en un mecanismo de participación ciudadana.
+
+Aprendí a conectar todo lo que vimos en el curso: backend, base de datos, generación de documentos y automatización, y a verlo como un sistema completo y no como piezas sueltas. También me quedó clarísimo lo importante que es cuidar los datos personales, porque en un sistema comunitario la confianza de la gente es lo primero, y eso significa no guardar ni enviar información que no sea estrictamente necesaria.
+
+Siento que este reto final resume todo el espíritu de "Programadores para la Paz": usar lo que sabemos hacer para facilitar que las comunidades se organicen, propongan y exijan cambios de manera formal y ordenada, usando la tecnología como puente y no como barrera.

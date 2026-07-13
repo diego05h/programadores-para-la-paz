@@ -1,0 +1,17 @@
+Modelo de datos - Petición en 3 Clics
+
+Entidad: Causa
+- id: identificador único de la causa
+- titulo: nombre corto que resume la petición
+- descripcion: explicación detallada de qué se pide y por qué
+- fecha: fecha en la que se creó la causa
+
+La entidad Causa sirve para almacenar la información central de cada petición que un ciudadano quiere impulsar dentro de la plataforma.
+
+Entidad: Apoyo
+- id: identificador único del apoyo
+- causa_id: referencia a la causa que se está apoyando
+- nombre: nombre de la persona que apoya (dato mínimo necesario)
+- fecha: fecha en la que se registró el apoyo
+
+La entidad Apoyo sirve para llevar el conteo de personas que respaldan una causa, sin necesidad de guardar datos sensibles como cédula, teléfono o dirección.
